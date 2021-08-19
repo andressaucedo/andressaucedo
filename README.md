@@ -1,6 +1,6 @@
  # Andrés Saucedo  <img src="https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif" width="48">
 ---
- ### ***About Me***   
+ ## ***About Me:***   
 
 ***What's on the horizon?***
 * Currently learning to code
