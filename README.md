@@ -1,5 +1,5 @@
-# Andres Saucedo | ![tux](https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif)
-__*About Me*__   |   
+|# Andres Saucedo | ![tux](https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif)|
+|__*About Me*__   |  
 ---
 
 *What's on the horizon?*
