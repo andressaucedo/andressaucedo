@@ -1,16 +1,14 @@
  # Andrés Saucedo  <img src="https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif" width="48">
 ---
- __*About Me*__   |
----
+ ***About Me***   
 
-*What's on the horizon?*
+***What's on the horizon?***
 * Currently learning to code
 * Studying C for several months, starting JS and Python
 * Interested in embedded systems, mobile apps and web apps
 * Curious about system architecture and computer history
 
----
-*Hobbies and Interests.*
+***Hobbies and Interests.***
 
 * Archery
     * both compound and traditional
@@ -29,8 +27,8 @@
 * Sculpture
     * formerly worked as a sculptor's assistant
 
----
-*Personal Trivia*
+
+***Personal Trivia***
 
 * Proud father
 * Bi-lingual Spanish/English
