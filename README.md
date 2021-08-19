@@ -1,6 +1,6 @@
  # Andrés Saucedo  <img src="https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif" width="48">
 ---
- ***About Me***   
+ ### ***About Me***   
 
 ***What's on the horizon?***
 * Currently learning to code
@@ -9,7 +9,6 @@
 * Curious about system architecture and computer history
 
 ***Hobbies and Interests.***
-
 * Archery
     * both compound and traditional
 * Fitness
@@ -29,7 +28,6 @@
 
 
 ***Personal Trivia***
-
 * Proud father
 * Bi-lingual Spanish/English
 * I like doom Metal and Classical music.
