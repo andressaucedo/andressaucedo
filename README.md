@@ -10,22 +10,18 @@
 
 ***Hobbies and Interests***
 * Archery
-    * both compound and traditional
+* Oil Painting
+* Sculpture
+* Open source software
+* Hiking/Camping
+* Anime
+* Movies
+    * cult classics
+    * Samurai and Yakuza movies
 * Fitness
     * lifting weights
     * running
     * yoga
-* Open source software
-* Hiking/Camping
-* Movies
-    * cult classics
-    * Samurai and Yakuza movies
-    * Troma/Horror
-* Anime
-* Oil Painting
-* Sculpture
-    * formerly worked as a sculptor's assistant
-
 
 ***Personal Trivia***
 * Proud father
