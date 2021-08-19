@@ -1,5 +1,5 @@
- # Andrés Saucedo  <img src="https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif" width="48">
----
+ # Andrés Saucedo                     <img src="https://c.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif" width="48">
+
  ## ***About Me:***   
 
 ***What's on the horizon?***
@@ -8,7 +8,7 @@
 * Interested in embedded systems, mobile apps and web apps
 * Curious about system architecture and computer history
 
-***Hobbies and Interests.***
+***Hobbies and Interests***
 * Archery
     * both compound and traditional
 * Fitness
