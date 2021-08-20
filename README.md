@@ -6,7 +6,7 @@
 * Currently learning to code
 * Studying C for several months, starting JS and Python
 * Interested in embedded systems, mobile apps and web apps
-* Curious about system architecture and computer history
+* Curious about systems architecture and computer history
 
 ***Work, Hobbies and Interests***
 * Professional Tattoo Artist
@@ -18,7 +18,7 @@
 * Anime
 * Movies
     * cult classics
-    * Samurai and Yakuza movies
+    * samurai and yakuza movies
 * Fitness
     * lifting weights
     * running
@@ -27,4 +27,4 @@
 ***Personal Trivia***
 * Proud father
 * Bi-lingual Spanish/English
-* I like doom Metal and Classical music.
+* I like Doom Metal and Classical music.
