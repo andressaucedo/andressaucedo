@@ -8,7 +8,8 @@
 * Interested in embedded systems, mobile apps and web apps
 * Curious about system architecture and computer history
 
-***Hobbies and Interests***
+***Work, Hobbies and Interests***
+* Professional Tattoo Artist
 * Archery
 * Oil Painting
 * Sculpture
