@@ -23,8 +23,3 @@
     * lifting weights
     * running
     * yoga
-
-***Personal Trivia***
-* Proud father
-* Bi-lingual Spanish/English
-* I like Doom Metal and Classical music.
